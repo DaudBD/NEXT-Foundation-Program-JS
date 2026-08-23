@@ -6,9 +6,9 @@ const age = 21;
 //console.log(age);
 
 const isAdult =true;
-console.log(typeof(name2),typeof(age),typeof(isAdult));
+//console.log(typeof(name2),typeof(age),typeof(isAdult));
 
-let schoolName ='Adachaki';
+//let schoolName ='Adachaki';
 
-console.log(schoolName)
+//console.log(schoolName)
 
