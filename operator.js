@@ -7,3 +7,4 @@ const divison = a/b;
 console.log(divison.toFixed(2));   
 const rmndr = a%b;
 console.log(rmndr);
+
