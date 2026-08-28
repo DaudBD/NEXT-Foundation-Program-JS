@@ -1,6 +1,6 @@
 //import add from "./math.js";
 
-import add from "./math.js";
+//import add from "./math.js";
 
 console.log(add(6,9));
 
