@@ -1,0 +1,159 @@
+// =====================================
+// Module 3 - Problem Solving Assignment
+// =====================================
+
+// 1. Use map()
+// Given an array of numbers, create a new array
+// where each number is multiplied by 2.
+
+let numbers1 = [10, 20, 30, 40, 50];
+
+let products1 = [
+    { title: "Mouse", price: 500 },
+    { title: "Keyboard", price: 1200 },
+    { title: "Headphone", price: 2500 }
+];
+
+
+// 3. Use filter()
+// Find all numbers greater than 30.
+
+let numbers2 = [10, 25, 35, 45, 20, 50];
+
+
+// 4. Use filter()
+// Find all products whose price is greater than 1000.
+
+let products2 = [
+    { title: "Mouse", price: 500 },
+    { title: "Keyboard", price: 1200 },
+    { title: "Headphone", price: 2500 }
+];
+
+
+// 5. Use filter()
+// Find all products that are in stock.
+
+let products3 = [
+    { title: "Mouse", price: 500, instock: true },
+    { title: "Keyboard", price: 1200, instock: false },
+    { title: "Headphone", price: 2500, instock: true }
+];
+
+
+// 6. Use find()
+// Find the product whose title is "Mouse".
+
+let products4 = [
+    { title: "Mouse", price: 500 },
+    { title: "Keyboard", price: 1200 },
+    { title: "Headphone", price: 2500 }
+];
+
+
+// 7. Use some()
+// Check whether there is any product with a price
+// greater than 2000.
+
+let products5 = [
+    { title: "Mouse", price: 500 },
+    { title: "Keyboard", price: 1200 },
+    { title: "Headphone", price: 2500 }
+];
+
+
+// 8. Use every()
+// Check whether all products are in stock.
+
+let products6 = [
+    { title: "Mouse", instock: true },
+    { title: "Keyboard", instock: true },
+    { title: "Headphone", instock: true }
+];
+
+
+// 9. Use reduce()
+// Calculate the total of all numbers.
+
+let numbers3 = [10, 20, 30, 40, 50];
+
+
+// 10. Use reduce()
+// Calculate the total price of all products.
+
+let products7 = [
+    { title: "Mouse", price: 500 },
+    { title: "Keyboard", price: 1200 },
+    { title: "Headphone", price: 2500 }
+];
+
+
+// 11. Use map()
+// Increase every product price by 10%.
+
+let products8 = [
+    { title: "Mouse", price: 500 },
+    { title: "Keyboard", price: 1000 },
+    { title: "Headphone", price: 2000 }
+];
+
+
+// 12. Use filter()
+// Find all students who passed.
+// Passing mark = 40.
+
+let students = [
+    { name: "Rahim", marks: 35 },
+    { name: "Karim", marks: 60 },
+    { name: "Hasan", marks: 45 },
+    { name: "Jamal", marks: 30 }
+];
+
+
+// 13. Use find()
+// Find the student whose name is "Karim".
+
+
+// 14. Use some()
+// Check whether any student has marks greater than 80.
+
+let students2 = [
+    { name: "Rahim", marks: 65 },
+    { name: "Karim", marks: 75 },
+    { name: "Hasan", marks: 85 }
+];
+
+
+// 15. Use every()
+// Check whether every student has passed.
+// Passing mark = 40.
+
+let students3 = [
+    { name: "Rahim", marks: 65 },
+    { name: "Karim", marks: 75 },
+    { name: "Hasan", marks: 85 }
+];
+
+
+// 16. Challenge - map()
+// Create a new array containing only the prices.
+
+let products9 = [
+    { title: "Mouse", price: 500 },
+    { title: "Keyboard", price: 1200 },
+    { title: "Headphone", price: 2500 }
+];
+
+
+// 17. Challenge - filter()
+// Find products with prices between 500 and 1500.
+
+
+// 18. Challenge - reduce()
+// Calculate the total price of all products.
+
+let products10 = [
+    { title: "Mouse", price: 500, quantity: 2 },
+    { title: "Keyboard", price: 1000, quantity: 1 },
+    { title: "Headphone", price: 2000, quantity: 3 }
+];

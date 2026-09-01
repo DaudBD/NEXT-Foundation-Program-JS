@@ -1,0 +1,55 @@
+Sure! Here are Module 1: JavaScript Fundamentals & Core Programming Concepts questions in English.
+
+🟢 Basic Questions
+Addition
+Given two numbers 25 and 15, find their sum.
+Basic Operations
+Given two numbers 20 and 5, find their:
+Sum
+Difference
+Product
+Quotient
+Even or Odd
+Given a number 27, check whether it is Even or Odd.
+Positive, Negative, or Zero
+Given a number -15, check whether it is Positive, Negative, or Zero.
+Find the Larger Number
+Given two numbers 45 and 70, find the larger number.
+Find the Largest of Three Numbers
+Given 25, 80, and 45, find the largest number.
+Find the Smallest of Three Numbers
+Given 25, 80, and 45, find the smallest number.
+Pass or Fail
+A student's mark is 65. If the mark is 40 or above, print "Pass"; otherwise, print "Fail".
+Grade Calculator
+Given a student's mark 85, determine the grade:
+80+ → A+
+70–79 → A
+60–69 → B
+50–59 → C
+40–49 → D
+Below 40 → F
+Adult or Minor
+Given a person's age 18, print "Adult" if the age is 18 or above; otherwise, print "Minor".
+🟡 Logic-Based Questions
+Divisible by 5
+Given a number 35, check whether it is divisible by 5.
+Divisible by 3 and 5
+Given a number 30, check whether it is divisible by both 3 and 5.
+Celsius to Fahrenheit
+Convert 30°C to Fahrenheit.
+ectangle Area
+Given length 10 and width 5, calculate the area of the rectangle.
+Triangle Area
+Given base 10 and height 8, calculate the area of the triangle.
+🔥 Challenge Questions
+Find the Middle Number
+Given three numbers 10, 30, and 20, find the middle number.
+Leap Year
+Given the year 2024, check whether it is a leap year.
+Multiple of 10
+Given a number 100, check whether it is a multiple of 10.
+Compare Two Numbers
+Given 10 and 20, use if...else to determine which number is larger.
+Number Range
+Given a number 7, check whether it is between 1 and 10.R

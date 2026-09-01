@@ -60,9 +60,18 @@ function addTask() {
   render();
 }
 
-addBtn.addEventListener("click", addTask);
-taskInput.addEventListener("keydown", (event) => {
-  if (event.key === "Enter") {
-    addTask();
-  }
-});
+// addBtn.addEventListener("click", addTask);
+// taskInput.addEventListener("keydown", (event) => {
+//   if (event.key === "Enter") {
+//     addTask();
+//   }
+// });
+
+
+let var = "hellwo world"
+
+console.log(var;
+  
+)
+
+ul>li*10}
