@@ -123,7 +123,10 @@ console.log(displayName);
 let title = "Mouse";
 let price = 500;
 console.log({title, price});
-
+// 13. Challenge - Destructuring + Template Literal
+// Get the name and marks from the student object
+// and print:
+// "Rahim got 75 marks."
 
 
 let student2 = {
@@ -132,3 +135,16 @@ let student2 = {
 };
 
 console.log (`${student2.name} got ${student2.marks}  marks.`);
+
+
+
+// 15. Challenge - Rest + Reduce
+// Create a function that accepts any number of numbers
+// and returns their total.
+
+
+function calculateTotal(...numbers) {
+    return numbers.reduce((sum, num) => sum + num, 0);
+}
+
+console.log(calculateTotal(10, 20, 30, 40));
